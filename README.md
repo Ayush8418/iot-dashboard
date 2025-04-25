@@ -1,6 +1,6 @@
 # 🏠 Smart Home IoT Dashboard
 
-![Project Hero](./images/page1.png)
+![Project Hero](./public/images/page1.png)
 
 > A responsive web-based IoT dashboard to monitor and control smart home devices like lights, thermostats, and alarms, with real-time data, user authentication, filtering, and usage visualization.
 
@@ -33,7 +33,7 @@
 
 | Dashboard List | Contro Page | Search page |
 |-------------|--------------|------------------|
-| ![](./images/dashboard.png) | ![](./images/devices.png) | ![](./images/search.png) |
+| ![](./public/images/dashboard.png) | ![](./public/images/devices.png) | ![](./public/images/search.png) |
 
 ---
 
