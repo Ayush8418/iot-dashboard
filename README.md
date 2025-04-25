@@ -31,7 +31,7 @@
 
 > 🔽 Scroll for visual overview of the dashboard features.
 
-| Device List | Control Page | Weather + Charts |
+| Dashboard List | Contro Page | Search page |
 |-------------|--------------|------------------|
 | ![](./images/dashboard.png) | ![](./images/devices.png) | ![](./images/search.png) |
 
